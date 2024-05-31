@@ -1,0 +1,1 @@
+Para el código del videojuego, se utilizará la licencia MIT. La licencia MIT es una de las licencias de software más permisivas y utilizadas en el desarrollo de software de código abierto. Permite a los usuarios reutilizar, modificar, y distribuir el software con muy pocas restricciones.

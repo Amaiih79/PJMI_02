@@ -1,0 +1,3 @@
+Se utilizará TagSpaces para el etiquetado de módulos de información multimedia. Este programa permite añadir etiquetas a los archivos del sistema y facilita la búsqueda siguiendo dicha clasificación.
+El etiquetado se aplicará en las carpetas con contenidos artísticos: Models, Sprites, Textures, Animations y Audio.
+Etiquetas específicas: modelo 3D, sprite, textura, animación, efecto sonoro, música, personaje, objeto, fondo, explorador, tesoros, enemigos, suelo, paredes, cielo, movimientos, transiciones, efectos, diálogos.
